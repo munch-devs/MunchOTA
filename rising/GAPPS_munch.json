@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "HDzungx",
+			"oem": "Xiaomi",
+			"device": "Redmi K40S/Poco F4",
+			"filename": "RisingOS-5.2-FINAL-EOL-20240909-GAPPS-COMMUNITY-munch-ota.zip",
+			"download": "https://sourceforge.net/projects/hdzungx/files/RisingOS/RisingOS-5.2-FINAL-EOL-20240909-GAPPS-COMMUNITY-munch-ota.zip/download",
+			"timestamp": 1725901387,
+			"md5": "540f6044acd543b0c192a1238854fffc",
+			"sha256": "631017c249ad6b609ef3e2df0b4cd7b49bf6bb20825df0783800594072d71f09",
+			"size": 2478957729,
+			"version": "5.2-Lyonesse",
+			"buildtype": "FINAL-EOL",
+			"forum": "https://t.me/hdzungxchat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/paypalme/hdzungx",
+			"telegram": "https://t.me/hdzungx",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
