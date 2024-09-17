@@ -3,6 +3,5 @@ Device: Redmi K40S/Poco f4 (munch)
 Device maintainer: HDzungx
 Required firmware: Latest Global FW
 
-===== 24-09-15 =====
+===== 24-09-17 =====
 - Sync latest source
-- Add Xiaomi Dolby
