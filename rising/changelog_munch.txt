@@ -5,3 +5,6 @@ Required firmware: Latest Global FW
 
 ===== 24-09-17 =====
 - Sync latest source
+- Improve scroll
+- Cleanup blobs
+- Update blobs to 1.0.5 global
