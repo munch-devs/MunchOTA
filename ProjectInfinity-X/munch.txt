@@ -1,0 +1,9 @@
+Device: POCO F4 / Redmi K40S
+Device code name : munch
+Device maintainer: HDzungx
+
+Date - 09/12/2024
+=================
+• Fix Dt2s
+• Fix crash related to clock lockscreen style
+• Sync latest source
