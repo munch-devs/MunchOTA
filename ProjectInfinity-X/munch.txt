@@ -2,6 +2,12 @@ Device: POCO F4 / Redmi K40S
 Device code name : munch
 Device maintainer: HDzungx
 
+Date - 02/01/2025
+=================
+• Switch to E404 kernel
+• Sync latest source
+• ...
+
 Date - 09/12/2024
 =================
 • Fix Dt2s
