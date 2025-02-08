@@ -2,6 +2,16 @@ Device: POCO F4 / Redmi K40S
 Device code name : munch
 Device maintainer: HDzungx
 
+
+Date - 08/02/2025
+=================
+• N0Kernel with KSU Next
+• Sync latest source 2.5
+• Swith to fingerprint aidl, so need to resetup fingerprint
+• Many more
+• Lazy to text :))
+• ...
+
 Date - 02/01/2025
 =================
 • Switch to E404 kernel
