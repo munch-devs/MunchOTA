@@ -2,6 +2,12 @@ Device: POCO F4 / Redmi K40S
 Device code name : munch
 Device maintainer: HDzungx
 
+Date - 28/03/2025
+=================
+• Introduce GameBar feature
+• Disable SDM rotator downscaler
+• Remove IO read_ahead_kb tune
+• Enable HWUI adpf
 
 Date - 08/02/2025
 =================
