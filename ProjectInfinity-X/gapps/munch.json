@@ -1,12 +1,12 @@
 {
-	"response": [
-			{
-					"filename": "Project_Infinity-X-2.5-munch-20250328-0332-GAPPS-UNOFFICIAL.zip",
-					"download": "https://sourceforge.net/projects/hdzungx/files/ProjectInfinityX/Project_Infinity-X-2.5-munch-20250328-0332-GAPPS-UNOFFICIAL.zip/download",
-					"timestamp": 1743132468,
-					"md5": "ac872d5c81a154c71e1e329d488c836f",
-					"size": 2046341640,
-					"version": "2.5"
-			}
-	]
+        "response": [
+                {
+                        "filename": "Project_Infinity-X-3.7-QPR2-beta-munch-29.01.2026-GAPPS.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/munch/16/gapps/Project_Infinity-X-3.7-QPR2-beta-munch-29.01.2026-GAPPS.zip",
+                        "timestamp": 1769693744,
+                        "md5": "281ba55c6bc2769a2d33f9bf37776ce2",
+                        "size": 2086839736,
+                        "version": "3.7"
+                }
+        ]
 }

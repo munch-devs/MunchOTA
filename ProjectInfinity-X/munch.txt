@@ -2,6 +2,10 @@ Device: POCO F4 / Redmi K40S
 Device code name : munch
 Device maintainer: HDzungx
 
+Date - 29/01/2025
+=================
+• Initial 16-QPR2 ROM
+
 Date - 28/03/2025
 =================
 • Introduce GameBar feature
