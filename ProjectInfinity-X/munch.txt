@@ -2,7 +2,13 @@ Device: POCO F4 / Redmi K40S
 Device code name : munch
 Device maintainer: HDzungx
 
-Date - 29/01/2025
+Date - 03/02/2026
+=================
+• Improve HBM, DC Dimming
+• Restore default swappiness parameters
+• sepolicy: Update Ultrasound sepolicy
+
+Date - 29/01/2026
 =================
 • Initial 16-QPR2 ROM
 
